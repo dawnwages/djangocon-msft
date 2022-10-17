@@ -7,6 +7,8 @@ Resources for Djangonauts and Pythonistas working with VS Code and deploying to 
 >**Option 1**: Complete [Python on Azure - Cloud Skills Challenge](https://docs.microsoft.com/learn/challenges?id=20f24f32-b1da-4f5c-a931-f4bf1e8404a0)
 >
 >**Option 2**: Deploy a Django App to Azure with Azure Free Tier! [https://github.com/Azure-Samples/](https://github.com/Azure-Samples/)
+>
+>**Option 3**: Complete this [form](https://forms.office.com/r/WHPk61WheE)! 
 
 ## Learning
 
