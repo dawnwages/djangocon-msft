@@ -1,8 +1,9 @@
 # Microsoft 💞s Django!
 Resources for Djangonauts and Pythonistas working with VS Code and deploying to Azure.  
 
-> ## WIN A PAIR OF SOCKS!
-><img src="img/socks_001.png" height="75" height="auto"><img src="img/socks_002.png" height="75" height="auto">
+> ## WIN A ~~PAIR OF SOCKS~~ $100 AZURE CREDIT!
+><img src="img/socks_001.png" height="75" height="auto" style="-webkit-filter: grayscale(100%); filter: grayscale(100%);"><img src="img/socks_002.png" height="75" height="auto" style="-webkit-filter: grayscale(100%); filter: grayscale(100%);">
+> (sold out)
 >
 >**Option 1**: Complete [Python on Azure - Azure Fundamentals - Cloud Skills Challenge](https://learn.microsoft.com/en-us/training/challenges?id=930e3b2c-be21-48bf-9079-6c6b7193b616)
 >
