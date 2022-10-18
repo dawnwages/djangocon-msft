@@ -2,14 +2,19 @@
 Resources for Djangonauts and Pythonistas working with VS Code and deploying to Azure.  
 
 > ## WIN A ~~PAIR OF SOCKS~~ $100 AZURE CREDIT!
-><img src="img/socks_001.png" height="75" height="auto" style="-webkit-filter: grayscale(100%) !important; filter: grayscale(100%) !important;"><img src="img/socks_002.png" height="75" height="auto" style="-webkit-filter: grayscale(100%) !important; filter: grayscale(100%) !important;">
-> (sold out)
+<!-- <img src="img/socks_001.png" height="75" height="auto" style="-webkit-filter: grayscale(100%) !important; filter: grayscale(100%) !important;"><img src="img/socks_002.png" height="75" height="auto" style="-webkit-filter: grayscale(100%) !important; filter: grayscale(100%) !important;">
+> (sold out) --> 
 >
->**Option 1**: Complete [Python on Azure - Azure Fundamentals - Cloud Skills Challenge](https://learn.microsoft.com/en-us/training/challenges?id=930e3b2c-be21-48bf-9079-6c6b7193b616)
+## **Option 1**: [Complete Python on Azure - Azure Fundamentals - Cloud Skills Challenge](https://learn.microsoft.com/en-us/training/challenges?id=930e3b2c-be21-48bf-9079-6c6b7193b616)
+
+![Skills Challenge](https://user-images.githubusercontent.com/8632637/196507150-aee0d018-28b9-4b1e-9bec-a724a45aa8f3.jpg)
+
 >
->**Option 2**: Deploy a Django App to Azure with Azure Free Tier! [https://github.com/Azure-Samples/](https://github.com/Azure-Samples/)
->
->**Option 3**: Complete this [form](https://forms.office.com/r/WHPk61WheE)! 
+## **Option 2**: [Deploy a Django App to Azure with Azure Free Tier!](https://github.com/Azure-Samples/)
+
+![deploy django app](https://user-images.githubusercontent.com/8632637/196508142-fe7166a6-8541-4d3c-84e6-bd72b2fa4052.jpg)
+
+
 
 ## Learning
 
